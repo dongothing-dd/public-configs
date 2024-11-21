@@ -1,0 +1,7 @@
+host,env,service,version,application,team,region,customer,runtime
+dd-ansible-config-generator-test-nodes-1,dev,service1,1,store,team1,us-east-1,fishyjoes,tomcat
+dd-ansible-config-generator-test-nodes-2,dev,service1,1,cart,team1,us-west-2,fishyjoes,tomcat
+dd-ansible-config-generator-test-nodes-3,dev,service2,1.1,payment,team2,us-west-2,fishyjoes,tomcat
+dd-ansible-config-generator-test-nodes-4.prd,prod,service1,1,store,team1,us-west-2,fishyjoes,weblogic
+dd-ansible-config-generator-test-nodes-5,prod,service1,1,cart,team1,us-east-1,fishyjoes,weblogic
+dd-ansible-config-generator-test-nodes-6,prod,service2,1.1,payment,team2,us-east-1,fishyjoes,weblogic
